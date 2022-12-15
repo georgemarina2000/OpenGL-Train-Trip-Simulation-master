@@ -7,9 +7,9 @@
 
 GLubyte* LoadHeightMap(char *filename) 
 {
-    int i, j=0;
+	int i = 0, j = 0;
     FILE *textureFile;
-	GLubyte* textureData;
+	GLubyte* textureData = 0;
 
     BITMAPFILEHEADER fileheader; 
     BITMAPINFOHEADER infoheader;

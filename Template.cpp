@@ -15,7 +15,7 @@
 #include "TgaLoader.h"
 #include "math3d.h"
 #include <mmsystem.h>
-#include < stdio.h >
+#include <stdio.h>
 #include <conio.h>
 
 
